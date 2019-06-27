@@ -7,6 +7,7 @@ Setting up the CNF file:
 - run the program using ./lab5 on terminal 
 
 If the result is found you get the following result: 
+---------------
 
 ------------------------------
 Reading Successful.
@@ -46,6 +47,7 @@ End Of Result List
 
 
 If result is not found then you will get the following: 
+-----------------------------
 
 --------------------------------------------
 Looking for solution...

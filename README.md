@@ -40,6 +40,7 @@ x20 = 1
 **0 means False
 
 End Of Result List
+
 ----------------------------------
 
 
@@ -50,4 +51,5 @@ If result is not found then you will get the following:
 Looking for solution...
 
 The problem given does not have a solution.
+
 --------------------------------------------
